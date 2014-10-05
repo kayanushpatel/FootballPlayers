@@ -1,7 +1,5 @@
 /*QuarterBack.java
  *Kayanush Patel
- *AP Java
- *Mr. Blondin
  *12/16/13
  */
  
@@ -29,7 +27,6 @@
  	{
  		completionPercentage = comp;
  	}
- 	
  	
  	//methods: getters
  	public int getInterceptionsThrown()
