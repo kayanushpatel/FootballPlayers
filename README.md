@@ -1,4 +1,4 @@
 FootballPlayers
 ===============
 
-Java program that has different football positions and their statistics.
+Java program that has different football positions and shows their statistics.
